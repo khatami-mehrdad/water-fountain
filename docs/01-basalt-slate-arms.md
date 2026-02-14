@@ -1,9 +1,11 @@
 # Concept 1 — Basalt Column + Slate Spill Arms (2–3 drops)
 
 **Best for:** premium look + layered, multi-pitch sound with manageable maintenance.  
-**Reference images:**  
-- `liked/basalt-column_slate-arms_3drop.png` (3 drops)  
-- `liked/basalt-column_slate-arms_2drop-compact.png` (2 drops)
+**Reference images:**
+
+![Basalt column with 3 slate spill arms](../liked/basalt-column_slate-arms_3drop.png)
+
+![Basalt column with 2 slate spill arms (compact)](../liked/basalt-column_slate-arms_2drop-compact.png)
 
 ---
 

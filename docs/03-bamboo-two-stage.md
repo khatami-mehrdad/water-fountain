@@ -1,7 +1,9 @@
 # Concept 3 — Bamboo Double-Spout + Catch Basin (2-stage pour)
 
 **Best for:** highest feasibility + classic Japanese garden feel with calming pour sound.  
-**Reference image:** `liked/bamboo_double-spout_2stage.png`
+**Reference image:**
+
+![Bamboo double spout (2 stages)](../liked/bamboo_double-spout_2stage.png)
 
 ---
 

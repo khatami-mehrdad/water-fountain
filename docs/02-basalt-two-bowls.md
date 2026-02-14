@@ -1,7 +1,9 @@
 # Concept 2 — Basalt Column + Two Bowls (3-stage splash)
 
 **Best for:** the most “musical” splash sound with a compact, premium feel.  
-**Reference image:** `liked/basalt-column_two-bowls_3stage.png`
+**Reference image:**
+
+![Basalt column with two bowls (3 stages)](../liked/basalt-column_two-bowls_3stage.png)
 
 ---
 
