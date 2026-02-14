@@ -98,6 +98,35 @@ Follow the maintenance plan below (weekly top-off + filter rinse every 2–3 wee
 
 ---
 
+## Day-by-day timeline (recommended)
+
+### Day 1 (setup + assemble)
+- Site prep + level basin.
+- Install pump vault + plumbing manifold + valves.
+- Set basalt column and mount arms (dry-fit first).
+- Add river rock, fill, and do first-pass sound tuning.
+
+### Day 2 (tuning + commissioning)
+- Fine-tune each arm’s valve for balanced sound and minimal splash.
+- Mark valve positions (photo + paint pen mark).
+- Rinse pre-filter after 24–48 hours (new installs shed grit).
+
+---
+
+## Tools checklist
+
+- 2'–4' level (or digital level)
+- Hand tamper (for DG/gravel)
+- Shovel + rake
+- Bucket/tub (bench test)
+- Utility knife + hose clamps
+- Adjustable wrench / pliers
+- Rubber mallet (stone positioning)
+- Work gloves + eye protection
+- Optional: shop-vac (cleaning grit), shims (leveling arms)
+
+---
+
 ## Materials (Bill of Materials + cost ranges)
 
 ### Visible materials (the “nice looking” part)

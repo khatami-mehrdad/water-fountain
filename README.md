@@ -14,7 +14,7 @@ Site photo (starting point):
 ## The three concepts (for community voting)
 
 ### 1) Basalt Column + Slate Spill Arms (2–3 drops)
-- **Doc**: `docs/01-basalt-slate-arms.md`
+- **Doc**: [Build doc: Basalt + slate arms](docs/01-basalt-slate-arms.md)
 - **Images**:
 
 ![Basalt column with 3 slate spill arms](liked/basalt-column_slate-arms_3drop.png)
@@ -22,13 +22,13 @@ Site photo (starting point):
 ![Basalt column with 2 slate spill arms (compact)](liked/basalt-column_slate-arms_2drop-compact.png)
 
 ### 2) Basalt Column + Two Bowls (3-stage splash)
-- **Doc**: `docs/02-basalt-two-bowls.md`
+- **Doc**: [Build doc: Basalt + two bowls](docs/02-basalt-two-bowls.md)
 - **Image**:
 
 ![Basalt column with two bowls (3 stages)](liked/basalt-column_two-bowls_3stage.png)
 
 ### 3) Bamboo Double-Spout + Catch Basin (2-stage pour)
-- **Doc**: `docs/03-bamboo-two-stage.md`
+- **Doc**: [Build doc: Bamboo two-stage](docs/03-bamboo-two-stage.md)
 - **Image**:
 
 ![Bamboo double spout (2 stages)](liked/bamboo_double-spout_2stage.png)

@@ -85,6 +85,32 @@ Follow the maintenance plan below (this is the easiest of the three).
 
 ---
 
+## Day-by-day timeline (recommended)
+
+### Day 1 (build + install)
+- Site prep + level basin.
+- Bench-test pump, then install pump vault + tubing + valve.
+- Assemble post + bamboo spouts and set catch basin.
+- Fill, run, and tune pour sound.
+
+### Day 2 (commissioning)
+- Minor adjustments to pour aim and splash.
+- Rinse pre-filter after 24–48 hours (new installs shed grit).
+
+---
+
+## Tools checklist
+
+- Level
+- Hand tamper, rake, shovel (site prep)
+- Bucket/tub (pump bench test)
+- Drill/driver + outdoor screws (post/spout mounting)
+- Utility knife + hose clamps
+- Adjustable wrench / pliers
+- Work gloves + eye protection
+
+---
+
 ## Materials (Bill of Materials + cost ranges)
 
 ### Visible materials

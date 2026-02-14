@@ -94,6 +94,33 @@ Follow the maintenance plan below; expect quick bowl wipes more often than Conce
 
 ---
 
+## Day-by-day timeline (recommended)
+
+### Day 1 (setup + assemble)
+- Site prep + level basin.
+- Install pump vault + feed line + valve.
+- Set basalt column, then set both bowls on stable supports.
+- Dry-run water and adjust until overflows land cleanly.
+
+### Day 2 (tuning + commissioning)
+- Fine-tune flow for the “musical splash” you want (reduce splash-out first).
+- Shim bowls if overflow is uneven.
+- Rinse pre-filter after 24–48 hours (new installs shed grit).
+
+---
+
+## Tools checklist
+
+- 2'–4' level (critical for bowl overflows)
+- Hand tamper, rake, shovel (site prep)
+- Bucket/tub (pump bench test)
+- Adjustable wrench / pliers + hose clamps
+- Rubber mallet + small shims (bowl leveling)
+- Work gloves + eye protection
+- Optional: towels (splash testing), shop-vac (cleaning grit)
+
+---
+
 ## Materials (Bill of Materials + cost ranges)
 
 ### Visible materials
