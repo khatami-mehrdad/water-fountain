@@ -38,6 +38,62 @@ This is very feasible DIY because plumbing can be simple (one feed line up; grav
 
 ---
 
+## Build stages (start → finish)
+
+### Stage 0 — Decide the “bowl cascade” geometry (30–45 min)
+- Choose bowl sizes and heights:
+  - Upper lip: ~14"–16"
+  - Lower lip: ~8"–10"
+- Decide your sound goal:
+  - **Crisper splashes**: slightly higher drops, moderate flow
+  - **Softer sound**: lower the upper bowl and/or reduce flow
+
+### Stage 1 — Source materials (shopping run)
+- Basin (36"×36"), basalt column, two bowls, river rock.
+- Pump (400–600 GPH), 1/2" tubing, ball valve, pre-filter sponge, pump vault.
+- Optional: check valve, inline screen filter (if leaf litter).
+
+### Stage 2 — Bench test & dry-fit (1–2 hours)
+- Run pump in a bucket/tub at your estimated height.
+- Dry-fit bowl supports and confirm:
+  - both bowls sit stable (no wobble)
+  - overflow from upper lands inside lower
+  - overflow from lower lands inside main basin (not on rim)
+
+### Stage 3 — Site prep (1–2 hours)
+- Level + compact the pad; ensure good drainage.
+
+### Stage 4 — Place and level basin (30–60 min)
+- Level is critical here—bowls need predictable overflow behavior.
+
+### Stage 5 — Install pump vault + feed line (1–2 hours)
+- Place vault in a removable service corner.
+- Route feed line to the column top.
+- Install a single ball valve for tuning.
+
+### Stage 6 — Set column + bowls (2–4 hours)
+- Stabilize column on a flat base.
+- Mount bowls on solid pedestals/supports.
+- Adjust until overflows land cleanly in the next vessel.
+
+### Stage 7 — Hide hardware + fill (1 hour)
+- Add river rock to conceal supports and soften splashes.
+- Fill to 2.5"–3.5" depth.
+
+### Stage 8 — Tune sound + splash control (30–90 min)
+- Tune pump flow:
+  - too splashy: reduce flow, reduce drop heights, or raise water level slightly
+  - too quiet: increase flow slightly or raise upper bowl a bit
+
+### Stage 9 — Commission water quality (same day)
+- Rinse pre-filter after 24–48 hours (new installs shed grit).
+- Optional: barley straw extract per label.
+
+### Stage 10 — Ongoing maintenance (routine)
+Follow the maintenance plan below; expect quick bowl wipes more often than Concept 1.
+
+---
+
 ## Materials (Bill of Materials + cost ranges)
 
 ### Visible materials

@@ -41,6 +41,63 @@ This concept is very feasible DIY because it’s fundamentally:
 
 ---
 
+## Build stages (start → finish)
+
+### Stage 0 — Decide the “sound + scale” targets (30–45 min)
+- Choose **2-drop** or **3-drop** configuration.
+- Choose drop heights (recommended):
+  - High: 10"–12", Mid: 6"–8", Low: 3"–5"
+- Decide sound goal:
+  - **More sound**: slightly higher drops + a bit more flow
+  - **Less splash**: keep drops shorter and closer to water
+
+### Stage 1 — Source materials (shopping run)
+- Basin (36"×36"), basalt column, 2–3 slate arms, river rock.
+- Pump (400–660 GPH), 1/2" tubing, manifold/tees, **mini valves per arm**, pre-filter sponge, pump vault.
+- Electrical: GFCI outlet access + outdoor-rated cord as needed.
+
+### Stage 2 — Bench test & pre-assemble (1–2 hours)
+- In a bucket/tub, run the pump and confirm:
+  - flow rate is sufficient at your estimated height
+  - noise level is acceptable
+- Dry-fit your manifold and label the arm valves (High/Mid/Low).
+
+### Stage 3 — Site prep (1–2 hours)
+- Level + compact the 4'×4' pad.
+- Confirm drainage (DG/gravel is good—avoid standing puddles).
+
+### Stage 4 — Place and level basin (30–60 min)
+- Set basin centered, level it carefully (critical for consistent spill sound).
+
+### Stage 5 — Install pump vault + plumbing (1–2 hours)
+- Place pump vault where it can be accessed (a removable “service corner”).
+- Route the main line up behind/through the column location.
+- Install manifold + valves.
+
+### Stage 6 — Set column + mount arms (2–4 hours)
+- Stabilize the basalt column on a flat base stone.
+- Set slate arms at heights that create distinct drops.
+- Ensure spill streams land **inward** (minimize splash-out).
+
+### Stage 7 — Hide hardware + fill (1 hour)
+- Place river rock to conceal vault and tubing.
+- Fill to 2.5"–3.5" depth.
+
+### Stage 8 — Tune sound + mark settings (30–90 min)
+- Tune each arm’s valve:
+  - balance the three sound pitches
+  - reduce any splash-out
+- Mark your “good” valve positions so you can restore them after cleaning.
+
+### Stage 9 — Commission water quality (same day)
+- Rinse the pre-filter sponge after 24–48 hours (new installs shed grit).
+- Optional: add barley straw extract (per label) if you want slower algae growth.
+
+### Stage 10 — Ongoing maintenance (simple routine)
+Follow the maintenance plan below (weekly top-off + filter rinse every 2–3 weeks).
+
+---
+
 ## Materials (Bill of Materials + cost ranges)
 
 ### Visible materials (the “nice looking” part)

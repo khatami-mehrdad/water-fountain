@@ -35,6 +35,56 @@ This concept is the most straightforward because:
 
 ---
 
+## Build stages (start → finish)
+
+### Stage 0 — Choose the pour feel (15–30 min)
+- Decide whether you want:
+  - **gentle pour** (lower drops, lower flow), or
+  - **more audible pour** (slightly higher drops, moderate flow)
+- Confirm catch basin placement so overflow lands inward into the main basin.
+
+### Stage 1 — Source materials (shopping run)
+- Basin (36"×36"), catch basin, 2 bamboo spouts, post, accent rock.
+- Pump (250–500 GPH), 1/2" tubing, ball valve, pre-filter sponge, pump vault.
+- Optional: inline screen/canister filter (if leaf litter).
+
+### Stage 2 — Bench test & pre-build (1–2 hours)
+- Run pump in a bucket/tub to confirm flow at height.
+- Pre-assemble post + spouts on a workbench.
+- Dry-fit tubing routing (hide it on the back of the post).
+
+### Stage 3 — Site prep (1–2 hours)
+- Level + compact DG/gravel; confirm drainage.
+
+### Stage 4 — Place and level basin (30–60 min)
+- Set basin centered and level.
+
+### Stage 5 — Install vault + run tubing (1–2 hours)
+- Place pump in vault (service corner).
+- Add ball valve for easy sound tuning.
+- Run tubing up the post to the upper spout.
+
+### Stage 6 — Place catch basin + set second stage (30–90 min)
+- Set catch basin on a stable support inside the main basin.
+- Ensure the second pour lands inward and doesn’t splash out.
+
+### Stage 7 — Rock concealment + fill (1 hour)
+- Add river rock to hide vault/supports.
+- Fill to 2.5"–3.5" depth.
+
+### Stage 8 — Tune sound (15–45 min)
+- Use the valve to tune to your preferred pour volume.
+- Adjust drop heights slightly if you want more/less sound.
+
+### Stage 9 — Commission water quality (same week)
+- Rinse pre-filter after 24–48 hours.
+- Optional: barley straw extract per label.
+
+### Stage 10 — Ongoing maintenance
+Follow the maintenance plan below (this is the easiest of the three).
+
+---
+
 ## Materials (Bill of Materials + cost ranges)
 
 ### Visible materials
